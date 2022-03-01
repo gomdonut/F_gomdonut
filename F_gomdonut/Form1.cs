@@ -21,6 +21,7 @@ namespace F_gomdonut
         {
             MessageBox.Show("hi gomdonut");
             MessageBox.Show("hi gomdonut 222!");
+            MessageBox.Show("booting and push");
         }
     }
 }
