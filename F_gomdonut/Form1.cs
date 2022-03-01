@@ -20,6 +20,7 @@ namespace F_gomdonut
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("hi gomdonut");
+            MessageBox.Show("hi gomdonut 222!");
         }
     }
 }
