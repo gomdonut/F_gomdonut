@@ -22,6 +22,7 @@ namespace F_gomdonut
             MessageBox.Show("hi gomdonut");
             MessageBox.Show("hi gomdonut 222!");
             MessageBox.Show("booting and push");
+            #크로스스레드작업이잘못되었을땐invoke로해결하자
         }
     }
 }
